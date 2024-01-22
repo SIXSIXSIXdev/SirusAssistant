@@ -1,5 +1,7 @@
 # Sirus Assistant
 
+[![Build Status](https://travis-ci.com/SIXSIXSIXdev/SirusAssistant.svg?branch=master)](https://app.travis-ci.com/SIXSIXSIXdev/SirusAssistant)
+
 Ассистент для мониторинга состояния серверов Sirus.su
 
 ## Возможности:
@@ -14,3 +16,6 @@
  - Интеграция "Голосования"
 
  Данное приложение написано на Node.JS + Electron
+
+## Важно
+Для работы необходим [Node.js](https://nodejs.org/)
